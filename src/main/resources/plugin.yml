@@ -1,0 +1,4 @@
+name: Pokupka
+version: 1.0
+main: com.pokupka.Main
+api-version: 1.16
