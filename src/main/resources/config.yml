@@ -1,1 +1,3 @@
-
+api-key: "PUT_KEY_HERE"
+api-url: "http://localhost:3000"
+server-id: "server1"
